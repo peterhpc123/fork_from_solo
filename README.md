@@ -30,6 +30,14 @@
 <a href="https://github.com/88250/solo/blob/master/README_en_US.md">English</a>
 </p>
 
+## 更新
+基于该开源项目，打造自己的个人博客
+后续计划：
+1. 个人定制功能
+2. 制作并上传docker镜像
+3. 服务器（3.108.27.127）拉取镜像并部署
+
+
 ## 💡 简介
 
 [Solo](https://b3log.org/solo) 是一款小而美的开源博客系统，专为程序员设计。Solo 有着非常活跃的[社区](https://ld246.com)，可将文章作为帖子推送到社区，来自社区的回帖将作为博客评论进行联动（具体细节请浏览 [B3log 构思 - 分布式社区网络](https://ld246.com/article/1546941897596)）。
